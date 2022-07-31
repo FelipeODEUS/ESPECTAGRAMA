@@ -13,3 +13,6 @@ const DrawerNavigator = () => {
         </Drawer.Navigator>
     )
 }
+
+//tinha faltado exportar o DrawerNavigator
+export default DrawerNavigator;
